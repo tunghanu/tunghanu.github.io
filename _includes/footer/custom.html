@@ -1,0 +1,20 @@
+<div style="text-align:center; margin-top: 1rem;">
+  <button onclick="forceRefresh()" style="padding: 0.5em 1em; font-size: 1rem; border-radius: 6px; background-color: #007bff; color: white; border: none;">
+    🔄 Làm mới nội dung
+  </button>
+</div>
+<script>
+  function forceRefresh() {
+    if ('caches' in window) {
+      // Xóa cache của Service Worker (nếu có)
+      caches.keys().then(function(names) {
+        for (let name of names) {
+          caches.delete(name);
+        }
+      });
+    }
+
+    // Ép trình duyệt tải lại trang từ server
+    location.reload(true);
+  }
+</script>
