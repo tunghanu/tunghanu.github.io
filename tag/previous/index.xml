@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Previous | Thầy Tùng HANU</title><link>https://example.com/tag/previous/</link><atom:link href="https://example.com/tag/previous/index.xml" rel="self" type="application/rss+xml"/><description>Previous</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url><title>Previous</title><link>https://example.com/tag/previous/</link></image><item><title>🤖 Learn Robotics</title><link>https://example.com/course/robotics/</link><pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate><guid>https://example.com/course/robotics/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/course/robotics/featured_hu_8e54716d0d6cf7d7.webp 400w,
+/course/robotics/featured_hu_658f69ff8aac8838.webp 760w,
+/course/robotics/featured_hu_e369c30e73e61e46.webp 1200w"
+src="https://example.com/course/robotics/featured_hu_8e54716d0d6cf7d7.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;details class="toc-inpage d-print-none d-xl-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#what-you-will-learn">What you will learn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#program-overview">Program overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#courses-in-this-program">Courses in this program&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#meet-your-instructor">Meet your instructor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#faqs">FAQs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="what-you-will-learn">What you will learn&lt;/h2>
+&lt;ul>
+&lt;li>Fundamental
+&lt;mark>Python programming skills&lt;/mark>&lt;/li>
+&lt;li>
+&lt;mark>Statistical concepts&lt;/mark> and how to apply them in practice&lt;/li>
+&lt;li>Gain experience with the
+&lt;mark>Scikit&lt;/mark>, including data visualization with
+&lt;mark>Plotly&lt;/mark> and data wrangling with
+&lt;mark>Pandas&lt;/mark>&lt;/li>
+&lt;/ul>
+&lt;h2 id="program-overview">Program overview&lt;/h2>
+&lt;p>The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p>
+&lt;h2 id="courses-in-this-program">Courses in this program&lt;/h2>
+&lt;ul class="list-unstyled">
+&lt;li>
+&lt;h5>&lt;a href="https://example.com/course/robotics/python/">Python basics&lt;/a>&lt;/h5>
+&lt;p>Build a foundation in Python.
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;h5>&lt;a href="https://example.com/course/robotics/visualization/">Visualization&lt;/a>&lt;/h5>
+&lt;p>Learn how to visualize data with Plotly.
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;h5>&lt;a href="https://example.com/course/robotics/stats/">Statistics&lt;/a>&lt;/h5>
+&lt;p>Introduction to statistics for data science.
+&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="meet-your-instructor">Meet your instructor&lt;/h2>
+&lt;a href="https://example.com/author/nelson-bighetti/">Nelson Bighetti&lt;/a>
+&lt;h2 id="faqs">FAQs&lt;/h2>
+&lt;details class="spoiler " id="spoiler-9">
+&lt;summary>Are there prerequisites?&lt;/summary>
+&lt;p>There are no prerequisites for the first course.&lt;/p>
+&lt;/details>
+&lt;details class="spoiler " id="spoiler-10">
+&lt;summary>How often do the courses run?&lt;/summary>
+&lt;p>Continuously, at your own pace.&lt;/p>
+&lt;/details>
+&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="python" class="btn btn-primary px-3 py-3">Begin the course&lt;/a>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
